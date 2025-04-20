@@ -1,2 +1,2 @@
 # DSHNet
-The code is still being collated and will be uploaded after the paper is accepted.
+We are working hard to organize the code and it will be uploaded soon.
